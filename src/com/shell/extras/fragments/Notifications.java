@@ -40,8 +40,8 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
-import com.dirtytweaks.tweaks.preferences.PackageListAdapter.PackageItem;
-import com.dirtytweaks.tweaks.preferences.PackageListAdapter;
+import com.shell.extras.preferences.PackageListAdapter.PackageItem;
+import com.shell.extras.preferences.PackageListAdapter;
 
 import com.android.internal.logging.nano.MetricsProto;
 
